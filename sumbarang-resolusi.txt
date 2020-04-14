@@ -1,0 +1,4 @@
+Sumbarang Resolusi
+- Belajar Laravel
+- Mahir Codeigniter
+- Membuat tutorial ngoding di channel sumbarang
